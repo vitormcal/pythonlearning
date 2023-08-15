@@ -1,0 +1,22 @@
+n1 = int(input('Digite um número para saber a sua tabuada: '))
+t1 = n1*1
+t2 = n1*2
+t3 = n1*3
+t4 = n1*4
+t5 = n1*5
+t6 = n1*6
+t7 = n1*7
+t8 = n1*8
+t9 = n1*9
+t10 = n1*10
+print('Segue a tabuada do número',n1,'abaixo:')
+print('x1 = {}'.format(t1))
+print('x2 = {}'.format(t2))
+print('x3 = {}'.format(t3))
+print('x4 = {}'.format(t4))
+print('x5 = {}'.format(t5))
+print('x6 = {}'.format(t6))
+print('x7 = {}'.format(t7))
+print('x8 = {}'.format(t8))
+print('x9 = {}'.format(t9))
+print('x10 = {}'.format(t10))
